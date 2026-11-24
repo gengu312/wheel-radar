@@ -1,0 +1,33 @@
+{
+    "common": {
+        "search": "Search",
+        "searchPlaceholder": "Describe your need, e.g., 'PDF to Markdown'",
+        "loading": "Loading...",
+        "noResults": "No results found",
+        "export": "Export",
+        "exportMarkdown": "Export Markdown"
+    },
+    "nav": {
+        "title": "WheelRadar",
+        "subtitle": "Find tools, not rebuild wheels"
+    },
+    "buckets": {
+        "ready_to_use": "Ready to Use",
+        "self_hosted": "Self-hosted",
+        "integratable": "Integratable",
+        "cautions": "Cautions"
+    },
+    "cautions": {
+        "license:gpl": "GPL License - Copyleft required",
+        "license:agpl": "AGPL License - Network copyleft",
+        "license:unknown": "Unknown license",
+        "privacy:uploads": "Requires file upload",
+        "stale": "Inactive/Stale project",
+        "paid_or_opaque": "Paid or unclear pricing",
+        "no_docs": "Missing documentation"
+    },
+    "score": {
+        "toolScore": "Tool Score",
+        "wheelScore": "Wheel Score"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "common": {
+        "search": "搜索",
+        "searchPlaceholder": "描述你的需求，例如：'PDF 转 Markdown'",
+        "loading": "加载中...",
+        "noResults": "未找到相关结果",
+        "export": "导出",
+        "exportMarkdown": "导出 Markdown"
+    },
+    "nav": {
+        "title": "WheelRadar",
+        "subtitle": "找工具，不造轮子"
+    },
+    "buckets": {
+        "ready_to_use": "直接可用",
+        "self_hosted": "开源可自部署",
+        "integratable": "可集成",
+        "cautions": "注意事项"
+    },
+    "cautions": {
+        "license:gpl": "GPL 许可证 - 需要开源衍生作品",
+        "license:agpl": "AGPL 许可证 - 网络服务需开源",
+        "license:unknown": "许可证不明",
+        "privacy:uploads": "需要上传文件",
+        "stale": "项目已停更/不活跃",
+        "paid_or_opaque": "付费或定价不明",
+        "no_docs": "缺少文档"
+    },
+    "score": {
+        "toolScore": "工具评分",
+        "wheelScore": "轮子评分"
+    }
+}
