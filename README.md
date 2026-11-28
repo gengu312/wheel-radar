@@ -1,16 +1,21 @@
-# WheelRadar（轮子雷达）
+# WheelRadar
 
-> 原始开发时间：2025-11 ~ 2026-01
+<p>
+  <a href="./README.md"><img src="https://img.shields.io/badge/Docs-English-2563EB?style=flat-square" alt="English" /></a>
+  <a href="./README.zh-CN.md"><img src="https://img.shields.io/badge/%E6%96%87%E6%A1%A3-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-64748B?style=flat-square" alt="简体中文" /></a>
+</p>
 
-面向独立开发者与办公人群的「工具选型器」。输入一个需求或想法（如“PDF 转 Markdown”“批量压缩图片”），自动检索可直接使用的成品工具与可复用的开源轮子，输出结构化对比与可解释的选型结论，避免重复造轮子。
+> Original development period: 2025-11 ~ 2026-01
 
-## 技术栈
+A "Tool & Library Selector" built for indie developers and office/knowledge workers. Enter a requirement or idea (such as "PDF to Markdown" or "batch image compression"), and WheelRadar automatically retrieves ready-to-use off-the-shelf tools alongside reusable open-source libraries—producing structured comparisons and explainable recommendations so you don't reinvent the wheel.
+
+## Tech Stack
 
 - Next.js + React + TypeScript
 - Tailwind CSS + Radix UI + Lucide Icons
 - Vercel AI SDK (`ai` / `@ai-sdk/openai`)
 
-## 快速开始
+## Quick Start
 
 ```bash
 pnpm install
@@ -18,4 +23,4 @@ cp .env.example .env.local
 pnpm dev
 ```
 
-详细设计说明见 [docs/项目说明书.md](./docs/项目说明书.md)。
+For detailed design specifications, see [docs/项目说明书.md](./docs/项目说明书.md).
